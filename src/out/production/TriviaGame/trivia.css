@@ -1,0 +1,4 @@
+.disabled-label:disabled {
+    -fx-background-color: rgb(252,252,252);
+    -fx-opacity: 1;
+}
